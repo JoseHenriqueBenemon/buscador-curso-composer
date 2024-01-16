@@ -41,5 +41,7 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações dos códigos do Phan e do Phpcs"
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["index.php"]
 }
